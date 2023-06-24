@@ -22,9 +22,9 @@
 
 ## TechStack
 
-**FrontEnd:** React, Material-UI, Redux-Toolkit
+**Front-End:** React, Material-UI, Redux-Toolkit
 
-**BackEnd:** Mongoose, Express.js, Node.js, Bcrypt, MongoDB
+**Back-End:** Mongoose, Express.js, Node.js, Bcrypt, MongoDB
 
 **Third Party Services:** Helmet, Formik, Yup, Multer, Morgan, JWT Authentication
 
