@@ -38,6 +38,21 @@
 
 ![login page](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/308cebff-99fb-44a1-9da0-ed6b02bda676)
 
+### User Homepage ( Dark Mode )
+
+![homepage (dark mode)](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/22fa2353-d0fe-40fb-b28b-43ef29ef1cd3)
+
+### User Homepage ( Light Mode )
+
+![homepage (light mode)](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/43f40314-3cfb-4994-8a12-562c0faad57a)
+
+### Post Structure
+
+![sample post](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/f84275d9-72c6-4c21-89ea-9e11113f41c5)
+
+### User FriendList Widget
+
+![user friendlist](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/6a37aab2-7a19-4c19-b3fe-3c5c5acae205)
 
 
 ## Authors
