@@ -28,6 +28,18 @@
 
 **Third Party Services:** Helmet, Formik, Yup, Multer, Morgan, JWT Authentication
 
+## Screens
+
+### User Registeration page
+
+![user_registeration page](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/323b6a63-9138-47c1-933d-032b50c824f2)
+
+### User Login Page
+
+![login page](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/308cebff-99fb-44a1-9da0-ed6b02bda676)
+
+
+
 ## Authors
 
 - [@Khateebxtreme](https://github.com/Khateebxtreme)
