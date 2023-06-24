@@ -27,3 +27,12 @@
 **BackEnd:** Mongoose, Express.js, Node.js, Bcrypt, MongoDB
 
 **Third Party Services:** Helmet, Formik, Yup, Multer, Morgan, JWT Authentication
+
+## Authors
+
+- [@Khateebxtreme](https://github.com/Khateebxtreme)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
