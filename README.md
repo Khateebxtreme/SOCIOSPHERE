@@ -2,6 +2,14 @@
 
 **SocioSphere** is a powerful, responsive and highly user-friendly social media web application made using MERN Stack. It includes a number of core functionalities that a social media app should provide like the ability for users to create and register accounts, add and remove friends, share posts and engage in various social interactions.
 
+## Table of Contents
+- [Features](#features)
+- [TechStack](#techstack)
+- [Screens](#screens)
+- [Video_Demo](#video_demo)
+- [Run_Locally](#run_locally)
+- [Authors](#authors)
+- [License](#license)
 
 ## Features
 - Users can create an account by providing necessary details like name, email and password. Other details like occupation,location and a profile picture can also be provided on registeration.
@@ -12,7 +20,7 @@
 - Users can also navigate to other user's profile by clicking on their name or profile pic.
 - SocioSphere comes in with user friendly interface for better user experience.
 
-## Tech Stack
+## TechStack
 
 **FrontEnd:** React, Material-UI, Redux-Toolkit
 
