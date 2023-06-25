@@ -81,6 +81,8 @@ Start the project
   npm run start
 ```
 
+The backend is already deployed on Render so running the project locally doesn't require any focus on it.
+
 ## Notes
 
 - **Hosting Services :** Netlify (Front-End), Render (Back-End)
