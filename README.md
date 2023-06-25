@@ -6,7 +6,6 @@
 - [Features](#features)
 - [TechStack](#techstack)
 - [Screens](#screens)
-- [Video_Demo](#video_demo)
 - [Run_Locally](#run_locally)
 - [Authors](#authors)
 - [License](#license)
