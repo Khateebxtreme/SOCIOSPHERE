@@ -7,6 +7,7 @@
 - [TechStack](#techstack)
 - [Screens](#screens)
 - [Run_Locally](#run_locally)
+- [Notes](#notes)
 - [Authors](#authors)
 - [License](#license)
 
@@ -80,7 +81,9 @@ Start the project
   npm run start
 ```
 
+## Notes
 
+- **Hosting Services :** Netlify (Front-End), Render (Back-End)
 
 ## Authors
 
