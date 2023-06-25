@@ -84,6 +84,7 @@ Start the project
 ## Notes
 
 - **Hosting Services :** Netlify (Front-End), Render (Back-End)
+- **Follow up :** Add the functionality to add comments, Fix the minor user state issue(friend of friend profile's) which can throw an error, Add the functionality to update user details (customization option) 
 
 ## Authors
 
