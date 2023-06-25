@@ -55,6 +55,34 @@
 ![user friendlist](https://github.com/Khateebxtreme/SOCIOSPHERE/assets/39136324/6a37aab2-7a19-4c19-b3fe-3c5c5acae205)
 
 
+## Run_Locally
+
+Clone the project
+
+```bash
+  $ git clone https://github.com/Khateebxtreme/SOCIOSPHERE.git
+```
+
+Go to the project directory
+
+```bash
+  cd SOCIOSPHERE\client
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the project
+
+```bash
+  npm run start
+```
+
+
+
 ## Authors
 
 - [@Khateebxtreme](https://github.com/Khateebxtreme)
