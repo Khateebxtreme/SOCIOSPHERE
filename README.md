@@ -86,7 +86,7 @@ The backend is already deployed on Render so running the project locally doesn't
 ## Notes
 
 - **Hosting Services :** Netlify (Front-End), Render (Back-End)
-- **Follow up :** Add the functionality to add comments, Fix the minor user state issue(friend of friend profile's) which can throw an error, Add the functionality to update user details (customization option) 
+- **Follow up :** Add the functionality to add comments, Fix the minor user state issue(friend of friend profile's) which can throw an error, Add the functionality to update user details (customization option), Some minor design updates are also needed.
 
 ## Authors
 
