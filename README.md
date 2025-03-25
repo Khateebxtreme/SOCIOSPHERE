@@ -1,3 +1,5 @@
+### IMPORTANT NOTICE -> [ READ THIS ](#notes)
+
 # SOCIOSPHERE
 
 **SocioSphere** is a powerful, responsive and highly user-friendly social media web application made using MERN Stack. It includes a number of core functionalities that a social media app should provide like the ability for users to create and register accounts, add and remove friends, share posts and engage in various social interactions. Features like light and dark mode, like or dislike posts was also added to improve user experience.
@@ -85,6 +87,7 @@ The backend is already deployed on Render so running the project locally doesn't
 
 ## Notes
 
+- **Important :** The following project is now offline and is currently unavailable from the mentioned hosting services.
 - **Hosting Services :** Netlify (Front-End), Render (Back-End)
 - **Follow up :** Add the functionality to add comments, Fix the minor user state issue(friend of friend profile's) which can throw an error, Add the functionality to update user details (customization option), Some minor design updates are also needed.
 
